@@ -17,7 +17,7 @@
     }
 
     function confirma() {
-        if (resultado.textContent != 'Erro' || resultado.textContent != '') {
+        if (resultado.textContent != 'Erro' && resultado.value != undefined) {
             document.getElementById('resultado').innerHTML = eval(resultado.innerHTML)
 
         }
