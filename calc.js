@@ -17,7 +17,8 @@
     }
 
     function confirma() {
-        if (resultado.textContent != 'Erro') {
+        if (resultado.textContent != 'Erro' || resultado.textContent != '') {
             document.getElementById('resultado').innerHTML = eval(resultado.innerHTML)
+
         }
     }
