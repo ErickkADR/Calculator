@@ -30,7 +30,13 @@
 ## 💻Project
 
 <br />
+Here's a description of your JavaScript Calculator project:
 
+The calculator is a web-based application built using JavaScript and HTML/CSS. It has a clean and user-friendly interface that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator also supports decimal numbers and can handle multiple operations in a single expression.
+
+The application uses JavaScript to handle the user input and perform the calculations, while HTML and CSS are used to create the layout and design of the calculator. The calculator uses a combination of event handling and functions to ensure that all operations are performed correctly.
+
+This project is a great demonstration of JavaScript's versatility and the ability to create dynamic, interactive web applications. Whether you're a beginner or an experienced programmer, you'll learn valuable skills in web development and JavaScript programming by building this calculator.
 <br />
 <br />
 
