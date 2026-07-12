@@ -8,12 +8,6 @@ Calculadora web com visual neon/glow, construída em **HTML, CSS e JavaScript pu
   <img width="100%" src="https://user-images.githubusercontent.com/99443921/214458205-8be4d3f0-d3ec-4606-a5ce-2c219ab7c991.gif"/>
 </div>
 
-## Print
-
-<div align="center">
-  <img src="docs/screenshot.png" alt="Calculadora com visual neon" width="360" />
-</div>
-
 ## Sobre o projeto
 
 Calculadora clássica de aritmética, com teclado numérico, operações (`+ - × ÷`), apagar (backspace), limpar (`AC`) e igual. O visual usa um tema escuro com glow azul/roxo ao redor do painel e dos botões.
